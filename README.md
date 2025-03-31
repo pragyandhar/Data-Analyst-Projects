@@ -11,11 +11,11 @@ Whether you're here to explore dashboards, learn from case studies, or just scro
 
 Each project lives in its **own folder**, with the following contents:
 
-📂 Project-Name/
- ┣ 📄 README.md              → Project overview and problem statement
- ┣ 📊 ProjectFile.ext        → Power BI (.pbix), Excel (.xlsx), Python (.ipynb), etc.
- ┣ 📁 Assets/                → Screenshots, datasets, and supporting files
- ┗ 📄 Insights.md            → Business insights & conclusions (optional)
+📦 Project-Name/
+├── 📄 README.md         → Project overview and problem statement
+├── 📊 ProjectFile.ext   → Power BI (.pbix) / Excel (.xlsx) / Python (.ipynb)
+├── 📁 Assets/           → Screenshots, datasets, supporting files
+└── 📄 Insights.md       → Business insights & conclusions (optional)
 
 ---
 
@@ -42,15 +42,14 @@ Each project typically includes:
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 | Project Name | Description | Tools |
 |--------------|-------------|-------|
-| [Air Quality & Respiratory Health](./Air-Quality-Health-Analysis/) | Study on the impact of pollution on respiratory illnesses | Power BI, Excel |
-| [Sales vs Marketing Performance](./Sales-Marketing-Dashboard/) | Comparative analysis of sales & marketing KPIs | Power BI |
-| [Supermarket Sales Insights](./Supermarket-EDA/) | EDA on supermarket transaction data | Python, Pandas |
+| 🌆 [City Pollution Dashboard](./City-Pollution-Dashboard) | An interactive Power BI dashboard that analyzes the relationship between air pollution levels and respiratory illness trends across cities. Built for actionable policymaking. | Power BI, MS Excel |
 
-> 🚀 *More projects coming soon...*
+> 🧠 *More projects coming soon… Stay tuned!*
+
 
 ---
 
