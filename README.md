@@ -11,7 +11,11 @@ Whether you're here to explore dashboards, learn from case studies, or just scro
 
 Each project lives in its **own folder**, with the following contents:
 
-📂 Project-Name/ ┣ 📄 README.md → Project overview and problem statement ┣ 📊 ProjectFile.ext → Power BI / Excel / Python / Notebook / Dashboard ┗ 📁 Assets/ → Screenshots, datasets, images (if any)
+📂 Project-Name/
+ ┣ 📄 README.md              → Project overview and problem statement
+ ┣ 📊 ProjectFile.ext        → Power BI (.pbix), Excel (.xlsx), Python (.ipynb), etc.
+ ┣ 📁 Assets/                → Screenshots, datasets, and supporting files
+ ┗ 📄 Insights.md            → Business insights & conclusions (optional)
 
 ---
 
